@@ -1,0 +1,27 @@
+{
+  "name": "tracker-backend",
+  "version": "1.0.0",
+  "description": "with this app traking your expenses easily",
+  "keywords": [
+    "Tracker",
+    "Expressjs"
+  ],
+  "license": "ISC",
+  "author": "Matt Razmjoy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
