@@ -1,7 +1,9 @@
-# 💰 Expense Tracker
+# 💰 Expense Tracker (Full‑Stack Web Application)
 
-A **Full‑Stack Expense Management Web Application** built to help users record, categorize, and visualize their personal financial transactions.  
-This project includes a **frontend**, **backend**, and a **database** layer — providing a complete end‑to‑end architecture for a real‑world financial tracking system.
+A comprehensive **Expense Management System** built to record, categorize, and visualize personal financial transactions.  
+This project showcases complete **frontend, backend, and database integration**, designed for clean scalability and maintainability.
+
+> 🧠 **Note:** For **educational purposes**, I have included detailed **comments in every file** explaining logic, architecture, and design decisions.
 
 ---
 
