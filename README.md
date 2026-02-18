@@ -33,10 +33,10 @@ Designed using **Node.js**, **Express**, and **MongoDB**, this application showc
 - Handles RESTful API requests for CRUD operations  
 - Implements routing, controllers, and modular structure for maintainability  
 
-**Database:**  
-- **MongoDB** for persistent expense storage  
-- Mongoose models define strict schema and relations  
-- Ensures fast query execution and data integrity  
+**Database**
+- SQLite file `database.sqlite` stored locally  
+- Initialized automatically at runtime if it does not exist  
+- Schema defined via SQL statements in `config/db.js`   
 
 ---
 
@@ -76,3 +76,34 @@ Your server will run at:
 And then,
 
 👉 Run the index.html in Frontend
+
+## 📜 License
+
+This project is distributed under the **MIT License**.
+
+You are free to:
+- Use the project for personal or commercial purposes
+- Modify and extend the source code
+- Distribute copies of the software
+
+As long as the original copyright and license notice are included.
+
+---
+
+## 👤 Author
+
+**Developed by Matt**
+
+Full‑Stack Developer specializing in:
+- Frontend / Backend Integration  
+- Database Design & Data Persistence  
+- UI ↔ Backend Synchronization  
+
+Known for:
+- Clean architecture
+- Educational, well‑commented codebases
+- Engineering transparency and maintainability
+
+💼 **GitHub Profile:**  
+<https://github.com/md559805>
+
